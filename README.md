@@ -25,7 +25,7 @@ after that install the requirments like this in your virt env :
 source /bin/activate && pip install -r requirements.txt
 ```
 
-### To install and use ipykernel:
+### How to install and use ipykernel:
 
 To use the code without Jupyter notebook UI, but also being comfy in running the code in separate cells you can use ipkernel and use repl or something similar. To install ipkernel you need to use this commmand to setup your jupypter kernel to be able for use in IDEs that have repl functionality:
 
@@ -53,6 +53,9 @@ To search datasets: https://huggingface.co/datasets
 More open source datasets for learning:
 https://commoncrawl.org/
 
+https://datahub.io
+
+https://archive.ics.uci.edu/
 
 ## TO DO:
 - The code needs to have adaptative learning rate, so when the gradient descent start to getting stuck, we need reduce the learning rate to perform better.
