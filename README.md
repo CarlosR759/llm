@@ -39,10 +39,20 @@ python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
 For simple math learning:
 https://huggingface.co/datasets/openai/gsm8k
 
+Wikipedia data set:
+https://huggingface.co/datasets/wikimedia/wikipedia
+
+Pyton & c++ fine tunning data set:
+https://huggingface.co/datasets/nvidia/OpenCodeReasoning-2
+
+STEM learning: 
+https://huggingface.co/datasets/open-r1/Mixture-of-Thoughts
 To search datasets: https://huggingface.co/datasets
 
 More open source datasets for learning:
 https://commoncrawl.org/
+
+
 
 ## TO DO:
 - The code needs to have adaptative learning rate, so when the gradient descent start to getting stuck, we need reduce the learning rate to perform better.
