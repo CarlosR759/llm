@@ -47,11 +47,11 @@ https://huggingface.co/datasets/nvidia/OpenCodeReasoning-2
 
 STEM learning: 
 https://huggingface.co/datasets/open-r1/Mixture-of-Thoughts
+
 To search datasets: https://huggingface.co/datasets
 
 More open source datasets for learning:
 https://commoncrawl.org/
-
 
 
 ## TO DO:
