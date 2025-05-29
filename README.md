@@ -39,10 +39,13 @@ python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
 For simple math learning:
 https://huggingface.co/datasets/openai/gsm8k
 
-To search datasets:  
-https://huggingface.co/datasets
+To search datasets: https://huggingface.co/datasets
 
 More open source datasets for learning:
 https://commoncrawl.org/
 
+## TO DO:
+- The code needs to have adaptative learning rate, so when the gradient descent start to getting stuck, we need reduce the learning rate to perform better.
+
+- Transforming the data set to tensors could be better. Maybe using lazy loading. A research is needed.
 
