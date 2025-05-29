@@ -57,6 +57,8 @@ https://datahub.io
 
 https://archive.ics.uci.edu/
 
+https://www.openml.org
+
 ## TO DO:
 - The code needs to have adaptative learning rate, so when the gradient descent start to getting stuck, we need reduce the learning rate to perform better.
 
