@@ -33,4 +33,16 @@ To use the code without Jupyter notebook UI, but also being comfy in running the
 python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
 ```
 
+## Fine tunning data bases: 
+
+
+For simple math learning:
+https://huggingface.co/datasets/openai/gsm8k
+
+To search datasets:  
+https://huggingface.co/datasets
+
+More open source datasets for learning:
+https://commoncrawl.org/
+
 
